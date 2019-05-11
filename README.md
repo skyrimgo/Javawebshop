@@ -15,7 +15,7 @@ Shopping Cart
 
 
 Balance payment
-![image](https://github.com/skyrimgo/Javawebshop/blobmaster/pic/pay.png)
+![image](https://github.com/skyrimgo/Javawebshop/blob/master/pic/pay.png)
 
 
 
