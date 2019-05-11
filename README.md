@@ -1,5 +1,7 @@
 # Javawebshop
 
+Servlet+JSP+Hibernate
+
 Simple Mall Project
 ![image](https://github.com/skyrimgo/Javawebshop/blob/master/pic//commodity.png)
 
