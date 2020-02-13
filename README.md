@@ -3,7 +3,7 @@
 Servlet+JSP+Hibernate
 
 Simple Mall Project
-![image](https://github.com/skyrimgo/Javawebshop/raw/master/pic//commodity.png)
+![image](https://github.com/skyrimgo/Javawebshop/raw/master/pic//commodity.png?raw=true)
 
 
 User registration and login
